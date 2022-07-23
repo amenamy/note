@@ -33,14 +33,3 @@ p {
   font-size: 20px;
 }
 
-JavaScript is used to control of different elements.
-JavaScript is more complicated language rhan HTML or CSS. it is used for adding functionality.
-example
-<script>
-document.getElementById("demo").innerHTML = "Hello JavaScript!";
-</script>
-
-python is popular programming language.
-python can be used on a server to create  web applications.
-example
-print("Hello, World!")
