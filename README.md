@@ -3,6 +3,7 @@
 HTML is the core of every web page, it provides the basic structure of sites, which is enhanced and modified by other technologies like CSS and JavaScript.
 HTML stands for HyperText Markup language.(markup language means that html uses tags to identify different types of content and the purposes they each serve the webpage.)
 using html you can add headings, format paragraphs, control line breaks, make lists, emphasize text, create special characters, insert images, create links, build tables, control some styling , and much more.
+An HTML element is set off from other text in a document by "tags", which consist of the element name surrounded by "<" and ">". The name of an element inside a tag is case insensitive. That is, it can be written in uppercase, lowercase, or a mixture. For example, the <title> tag can be written as <Title>, <TITLE>, or in any other way. However, the convention and recommended practice is to write tags in lowercase.
 example
 <!DOCTYPE html>
 <html>
